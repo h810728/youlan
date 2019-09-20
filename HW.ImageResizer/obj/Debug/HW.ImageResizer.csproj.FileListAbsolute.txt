@@ -1,0 +1,7 @@
+C:\Users\youlan\Desktop\HW\ImageResizer-master\ImageResizer-master\HW.ImageResizer\obj\Debug\HW.ImageResizer.csprojAssemblyReference.cache
+C:\Users\youlan\Desktop\HW\ImageResizer-master\ImageResizer-master\HW.ImageResizer\obj\Debug\HW.ImageResizer.csproj.CoreCompileInputs.cache
+C:\Users\youlan\Desktop\HW\ImageResizer-master\ImageResizer-master\HW.ImageResizer\bin\Debug\HW.ImageResizer.exe.config
+C:\Users\youlan\Desktop\HW\ImageResizer-master\ImageResizer-master\HW.ImageResizer\bin\Debug\HW.ImageResizer.exe
+C:\Users\youlan\Desktop\HW\ImageResizer-master\ImageResizer-master\HW.ImageResizer\bin\Debug\HW.ImageResizer.pdb
+C:\Users\youlan\Desktop\HW\ImageResizer-master\ImageResizer-master\HW.ImageResizer\obj\Debug\HW.ImageResizer.exe
+C:\Users\youlan\Desktop\HW\ImageResizer-master\ImageResizer-master\HW.ImageResizer\obj\Debug\HW.ImageResizer.pdb
